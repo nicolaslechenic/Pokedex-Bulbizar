@@ -1,2 +1,3 @@
 # Pokedex-Bulbizar
+Daniel
 Josselin
