@@ -1,3 +1,4 @@
 # Pokedex-Bulbizar
 Daniel<br>
-Josselin
+Josselin<br>
+Alan<br>
